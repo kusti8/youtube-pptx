@@ -1,7 +1,7 @@
 click==6.7
 itsdangerous==0.24
 Jinja2==2.10
-lxml==4.2.5
+lxml==4.6.3
 MarkupSafe==1.0
 Pillow==5.2.0
 python-pptx==0.6.13
