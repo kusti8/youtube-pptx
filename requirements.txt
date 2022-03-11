@@ -3,7 +3,7 @@ itsdangerous==0.24
 Jinja2==2.10
 lxml==4.2.5
 MarkupSafe==1.0
-Pillow==5.2.0
+Pillow==9.0.1
 python-pptx==0.6.13
 selenium==3.14.0
 urllib3==1.23
